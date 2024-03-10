@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Netflix Clone</title>
+</head>
+<body>
+    <header>
+        <!-- Navigation bar goes here -->
+    </header>
+
+    <main>
+        <section class="hero">
+            <!-- Hero section with background image and call-to-action -->
+        </section>
+
+        <section class="categories">
+            <!-- Categories or genres section -->
+        </section>
+
+        <section class="featured">
+            <!-- Featured content section with movie/TV show cards -->
+        </section>
+    </main>
+
+    <footer>
+        <!-- Footer section with links and copyright information -->
+    </footer>
+</body>
+</html>
